@@ -1,0 +1,11 @@
+C:\Users\frede\Desktop\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\MyCoin.deps.json
+C:\Users\frede\Desktop\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\MyCoin.runtimeconfig.json
+C:\Users\frede\Desktop\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\MyCoin.runtimeconfig.dev.json
+C:\Users\frede\Desktop\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\MyCoin.dll
+C:\Users\frede\Desktop\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\MyCoin.csprojAssemblyReference.cache
+C:\Users\frede\Desktop\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\MyCoin.csproj.CoreCompileInputs.cache
+C:\Users\frede\Desktop\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\MyCoin.AssemblyInfoInputs.cache
+C:\Users\frede\Desktop\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\MyCoin.AssemblyInfo.cs
+C:\Users\frede\Desktop\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\MyCoin.pdb
+C:\Users\frede\Desktop\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\MyCoin.dll
+C:\Users\frede\Desktop\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\MyCoin.pdb

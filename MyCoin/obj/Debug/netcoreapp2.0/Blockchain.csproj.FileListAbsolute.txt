@@ -1,0 +1,11 @@
+D:\Backup\2018-12-17\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\Blockchain.deps.json
+D:\Backup\2018-12-17\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\Blockchain.runtimeconfig.json
+D:\Backup\2018-12-17\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\Blockchain.runtimeconfig.dev.json
+D:\Backup\2018-12-17\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\Blockchain.dll
+D:\Backup\2018-12-17\MyCoin\MyCoin\bin\Debug\netcoreapp2.0\Blockchain.pdb
+D:\Backup\2018-12-17\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\Blockchain.csprojAssemblyReference.cache
+D:\Backup\2018-12-17\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\Blockchain.csproj.CoreCompileInputs.cache
+D:\Backup\2018-12-17\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfoInputs.cache
+D:\Backup\2018-12-17\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfo.cs
+D:\Backup\2018-12-17\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\Blockchain.dll
+D:\Backup\2018-12-17\MyCoin\MyCoin\obj\Debug\netcoreapp2.0\Blockchain.pdb
